@@ -1,5 +1,5 @@
 import { distance } from "./Point";
 
 export function main(): void {
-    console.log(distance(@))
+    console.log(distance(/*CURSOR*/))
 }
